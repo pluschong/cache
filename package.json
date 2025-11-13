@@ -1,0 +1,25 @@
+{
+  "name": "@pluschong/cache",
+  "version": "0.0.0",
+  "description": "一个简单易用的缓存库",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "pluschong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluschong/cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pluschong/cache/issues"
+  },
+  "homepage": "https://github.com/pluschong/cache#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "dependencies": {
+    "@pluschong/safe-type": "^0.0.1",
+    "@pluschong/utils": "^0.0.1"
+  }
+}
