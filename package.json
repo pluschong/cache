@@ -1,6 +1,6 @@
 {
   "name": "@pluschong/cache",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "一个简单易用的缓存库",
   "main": "index.js",
   "types": "index.d.ts",
